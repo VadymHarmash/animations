@@ -1,0 +1,17 @@
+@keyframes animation__menu {
+    0%{
+        background-color: #993399;
+    }
+    25%{
+        background-color: #bb32ba;
+    }
+    50%{
+        background-color: #ff1493;
+    }
+    75%{
+        background-color: #c71585;
+    }
+    100%{
+        background-color: #993399;
+    }
+}
